@@ -11,6 +11,9 @@
 - Supports (Android & iOS coming soon)
 - Create, read, update, and delete notes.
 - Search, copy and share notes
+- login and sign up user
+- Change app theme - light or dark theme
+- Localization
 - Labels for notes (coming soon)
 - Color tags
 - Tasks (coming soon)
