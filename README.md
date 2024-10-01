@@ -2,7 +2,7 @@
  Flutter Mobile App Notes
 
 ## Screenshot
-<img width="552" alt="note sc shot" src="https://github.com/user-attachments/assets/0d1ec73e-798f-49dd-a311-85ecf182c042">
+
 
 
 
