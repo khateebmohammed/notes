@@ -4,6 +4,7 @@
 ## Screenshot
 
 
+<img width="552" alt="note sc shot" src="https://github.com/user-attachments/assets/319c84fb-58cd-408b-9403-dd8fea94d905">
 
 
 ## Features
